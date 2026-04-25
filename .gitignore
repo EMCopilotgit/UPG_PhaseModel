@@ -1,0 +1,47 @@
+# Python cache and build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.vscode/
+.idea/
+
+# Results and generated data
+results/
+*.npz
+*.npy
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.ps
+*.svg
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Jupyter checkpoints (if you ever use notebooks)
+.ipynb_checkpoints/
+
+# ImageMagick or stray exports
+*.ppm
+*.pgm
+*.pbm
+*.psd
+
