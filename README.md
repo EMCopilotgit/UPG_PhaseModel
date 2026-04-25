@@ -1,4 +1,11 @@
-# **UPG Phase Model — Iteration 1**
+# UPG Phase Model — Iteration 1
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19749967.svg)](https://doi.org/10.5281/zenodo.19749967)
+![Version](https://img.shields.io/github/v/release/EMCopilotgit/UPG_PhaseModel)
+![License](https://img.shields.io/github/license/EMCopilotgit/UPG_PhaseModel)
+
+Meisner, Edward (2026). *UPG Phase Model — Iteration 1 (v1.0.0).* Zenodo.  
+https://doi.org/10.5281/zenodo.19749967
 
 A modular, phase‑structured computational framework for exploring geometric learning, defect dynamics, and multi‑phase diagnostics.  
 This repository contains the complete codebase for **Iteration 1** of the UPG Phase Model, including all simulation phases, diagnostics, worldline tracking, and catalogue generation.
@@ -110,8 +117,11 @@ ensuring long‑term reproducibility and archival clarity.
 
 If you use this code in academic work, please cite the accompanying manuscript:
 
-**“Multiphase Diagnostics for Geometric Learning”**  
-(Preprint link / Zenodo DOI will be added here.)
+## Multiphase Diagnostics for a First Iteration of the Geometric Framework for Defect Worldlines
+
+This repository accompanies the manuscript *Multiphase Diagnostics for a First Iteration of the Geometric Framework for Defect Worldlines*, which presents the Iteration 1 implementation of the UPG Phase Model, its diagnostic pipeline, and the geometric framework used to extract and analyze defect worldlines.
+
+A versioned archival snapshot corresponding to the manuscript is preserved on Zenodo: **Manuscript DOI:** https://doi.org/10.5281/zenodo.19749967
 
 ---
 
