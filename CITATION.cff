@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it using the metadata below."
+title: "UPG Phase Model — Iteration 1 (v1.0.0)"
+version: "1.0.0"
+doi: "10.5281/zenodo.19749967"
+date-released: "2026-04-24"
+authors:
+  - family-names: "Meisner"
+    given-names: "Edward X."
+repository-code: "https://github.com/EMCopilotgit/UPG_PhaseModel"
+url: "https://doi.org/10.5281/zenodo.19749967"
+
