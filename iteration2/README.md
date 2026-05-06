@@ -125,7 +125,7 @@ If you use this code or its results, please cite the Zenodo archive:
 
 ```
 Meisner, Edward (2026). UPG Phase Model — Iteration 2 (v2.0.0). Zenodo.
-[https://doi.org/XXXXXXXXX](https://doi.org/10.5281/zenodo.20054630)
+(https://doi.org/10.5281/zenodo.20054630)
 ```
 
 *(Replace with the DOI Zenodo assigns.)*
