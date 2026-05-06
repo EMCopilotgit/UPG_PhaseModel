@@ -147,14 +147,3 @@ Iteration 2 focuses on:
 
 A manuscript is not required for this iteration; the Zenodo archive and this README serve as the formal record of the computational results.
 ```
-
----
-
-If you want, I can also generate:
-
-- a **CHANGELOG.md** for Iteration 2  
-- a **GitHub release description** for v2.0.0  
-- a **Zenodo metadata description**  
-- a **project diagram** for the README  
-
-Just tell me what you want to add next.
