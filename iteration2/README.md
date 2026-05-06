@@ -10,7 +10,7 @@ This repository contains the full implementation of **Iteration 2** of the UPG
 
 A versioned archival snapshot of this iteration is preserved on Zenodo:
 
-**Zenodo DOI:** https://doi.org/XXXXXXXXX  
+**Zenodo DOI:** (https://doi.org/10.5281/zenodo.20054630)  
 *(replace with the DOI Zenodo assigns once you publish the release)*
 
 ---
@@ -125,7 +125,7 @@ If you use this code or its results, please cite the Zenodo archive:
 
 ```
 Meisner, Edward (2026). UPG Phase Model — Iteration 2 (v2.0.0). Zenodo.
-https://doi.org/XXXXXXXXX
+[https://doi.org/XXXXXXXXX](https://doi.org/10.5281/zenodo.20054630)
 ```
 
 *(Replace with the DOI Zenodo assigns.)*
